@@ -1,4 +1,3 @@
-# jenkins-test-project
 pipeline {
     agent any
     stages {
